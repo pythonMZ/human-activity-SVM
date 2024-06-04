@@ -1,5 +1,3 @@
 # Classification of human activities based on smart watch data using SVM
 
-train data:
-
-test data:
+It was one of the exercises I did in the bootcamp
